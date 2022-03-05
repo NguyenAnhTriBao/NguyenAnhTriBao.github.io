@@ -25,7 +25,7 @@ main {
 
 body {
 	margin: 0;
-	--color-text: #d05400;
+	--color-text:#FF66CC;
     --color-bg: #0c0c0c;
     --color-link: #6b5537;
 	--color-link-hover: #fff;
@@ -266,7 +266,7 @@ a:focus {
 }
 
 .content__title-sub {
-	color: var(--color-content-title-sub);
+	color: #FFFFFF;
 	font-size: 4vw;
 	display: block;
 	margin-left: 3vw;
