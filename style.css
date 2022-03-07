@@ -25,8 +25,8 @@ main {
 
 body {
 	margin: 0;
-	--color-text:#FF66CC;
-    --color-bg: #0c0c0c;
+	--color-text:#FFFFFF;
+    --color-bg: #FF66CC;
     --color-link: #6b5537;
 	--color-link-hover: #fff;
 	--color-content-title-sub: #6b5537;
